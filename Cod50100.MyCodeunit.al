@@ -4,4 +4,9 @@ codeunit 50100 "MyCodeunit"
     begin
 
     end;
+
+    local procedure MyProcedure2()
+    begin
+
+    end;
 }
